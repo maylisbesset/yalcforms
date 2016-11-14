@@ -5,7 +5,7 @@ A simplistic form with inputs shown one at a time. Inspired by the form seen on 
 
 [Article on Codrops](http://tympanus.net/codrops/?p=18780)
 
-[Demo du formulaire](http://maylis.besset.com/demo-yalc)
+[Demo du formulaire](http://maylisbesset.com/demo-yalc/)
 
 Integrate or build upon it for free in your personal or commercial projects. Don't republish, redistribute or sell "as-is". 
 
